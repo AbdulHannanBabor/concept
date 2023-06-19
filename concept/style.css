@@ -1,0 +1,31 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.nav-contanier{
+
+    display: flex;
+    padding: 5px;
+    justify-content:space-around;
+    
+
+
+}
+
+
+.items{
+    display: flex;
+    list-style: none;
+    
+}
+
+
+.item{
+   margin-right: 10px;
+   font-weight: bold;
+   padding: 10px;
+   font-size: 30px;
+}

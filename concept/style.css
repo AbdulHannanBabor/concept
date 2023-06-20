@@ -10,7 +10,10 @@
     display: flex;
     padding: 5px;
     justify-content:space-around;
-    
+
+    background-color: rgb(13, 109, 194);
+    color: rgb(251, 252, 253);
+
 
 
 }
@@ -28,4 +31,31 @@
    font-weight: bold;
    padding: 10px;
    font-size: 30px;
+}
+
+.baanner-container{
+
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/background.jpg");
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    color: rgb(110, 16, 21);
+   
+    
+    
+}
+
+.banner-title{
+
+    font-size: 100px;
+    font-weight: bold;
+
+
+
+
+
 }
